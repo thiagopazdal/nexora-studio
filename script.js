@@ -21,7 +21,7 @@ const translations = {
   }
 };
 
-const config = { contactEmail: "thiagopaz2198@gmail.com" }; // Add your real contact email before publishing.
+const config = { contactEmail: "" }; // Add your real contact email before publishing.
 let currentLanguage = "en";
 const languageButton = document.querySelector(".language-toggle");
 const nav = document.querySelector(".main-nav");
