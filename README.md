@@ -37,3 +37,8 @@ The form validates the fields and opens the visitor's configured email applicati
 
 ## Customize
 Edit the text in `index.html` and the `translations` object in `script.js` together so English and Spanish stay consistent. Colors are set near the top of `styles.css` using CSS variables.
+
+
+## Imágenes incluidas
+
+Las fotos que compartiste están dentro de la carpeta `images/`. La portada y tres tarjetas del portfolio ya usan algunas de ellas. Subí la carpeta `images` completa al repositorio, junto con `index.html`, `styles.css` y `script.js`; no cambies los nombres de archivo porque el HTML los referencia directamente.
